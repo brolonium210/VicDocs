@@ -22,27 +22,30 @@ Determine the shape of the PDF:
 
 
 Sketch the graph:
-
-    Use the correct shape and indicate the domain 1≤x≤21≤x≤2.
-    Plot key points, such as f(x)f(x) values at x=1x=1 and x=2x=2.
+   plot 3 key points repeat if necessary
 
 Label axes:
-
-    Clearly label the xx-axis and f(x)f(x)-axis. Include units if specified.
-
-
-
-
-
-
-
-
-
 
 ---
 
 2. **Finding CDF (5 marks)**
-   - 2 marks: Correct integration of the PDF.
+### 10 Actual Rules of Integration Likely Used
+
+1. **Power Rule**: $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$ (for $n \neq -1$).
+2. **Constant Multiple Rule**: $\int k \cdot f(x) \, dx = k \int f(x) \, dx$.
+3. **Sum Rule**: $\int [f(x) + g(x)] \, dx = \int f(x) \, dx + \int g(x) \, dx$.
+4. **Difference Rule**: $\int [f(x) - g(x)] \, dx = \int f(x) \, dx - \int g(x) \, dx$.
+5. **Definite Integral Rule**: $\int_a^b f(x) \, dx = F(b) - F(a)$.
+6. **Substitution Rule**: Use $u = g(x)$ for $\int f(g(x)) g'(x) \, dx$.
+7. **Integration by Parts**: $\int u v' \, dx = uv - \int u' v \, dx$.
+8. **Piecewise Integration**: Break into regions for $\int_a^b f(x) \, dx$.
+9. **Exponential Rule**: $\int e^{kx} \, dx = \frac{1}{k} e^{kx} + C$.
+10. **Logarithmic Rule**: $\int \frac{1}{x} \, dx = \ln|x| + C$.
+
+
+
+
+
    - 1 mark: Proper bounds applied.
    - 2 marks: Clear expression for the CDF.
 
