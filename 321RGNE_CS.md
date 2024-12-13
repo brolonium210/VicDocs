@@ -12,6 +12,32 @@
 1. **Sketch of PDF (3 marks)**
    - 2 marks: Correct shape in the region $\(1 \leq x \leq 2\)$
    - 1 mark: Properly labeling axes.
+  
+
+Determine the shape of the PDF:
+
+    Analyze the provided probability density function f(x)f(x). Identify the functional form in the region 1≤x≤21≤x≤2 (e.g., quadratic, linear).
+    Identify where f(x)f(x) equals 0 (e.g., for x<1x<1 or x>2x>2).
+
+Sketch the graph:
+
+    Use the correct shape and indicate the domain 1≤x≤21≤x≤2.
+    Plot key points, such as f(x)f(x) values at x=1x=1 and x=2x=2.
+
+Label axes:
+
+    Clearly label the xx-axis and f(x)f(x)-axis. Include units if specified.
+
+
+
+
+
+
+
+
+
+
+---
 
 2. **Finding CDF (5 marks)**
    - 2 marks: Correct integration of the PDF.
