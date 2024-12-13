@@ -16,7 +16,7 @@
 
 Determine the shape of the PDF:
 - **Linear**: If $\( f(x) \)$ is a first-degree polynomial (e.g., $\( f(x) = ax + b \)$).
-- **Quadratic**: If $\( f(x) \)$ is a second-degree polynomial (e.g., $\( f(x) = ax^2 + bx + c \)$).
+- **Quadratic**: If $\( f(x) \)$ is a second-degree polynomial (e.g., $$\( f(x) = ax^2 + bx + c \$$)).
 - **Exponential**: If $\( f(x) \) contains \( e^{kx} \)$, indicating exponential growth or decay.
 - **Piecewise**: If $\( f(x) \)$ has different expressions for different ranges of $\( x \)$.
 
