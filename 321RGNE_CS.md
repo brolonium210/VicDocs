@@ -10,7 +10,7 @@
 
 #### Question 1: Continuous Random Variables [18 marks]
 1. **Sketch of PDF (3 marks)**
-   - 2 marks: Correct shape in the region $\(1 \leq x \leq 2\)$.
+   - 2 marks: Correct shape in the region $$\(1 \leq x \leq 2\)$$.
    - 1 mark: Properly labeling axes.
 
 2. **Finding CDF (5 marks)**
@@ -22,7 +22,7 @@
    - 2 marks: Accurate curve shape in $\(1 \leq x \leq 2\)$.
    - 1 mark: Properly labeling axes.
 
-4. **Finding \(P(X > 3/2)\) (2 marks)**
+4. **Finding $`\(P(X > 3/2)\)`$ (2 marks)**
    - 1 mark: Correct computation of the area under the curve.
    - 1 mark: Final answer.
 
@@ -30,7 +30,7 @@
    - 2 marks: Integration with the PDF.
    - 1 mark: Correct numerical result.
 
-6. **Finding \(P(10 - 4X^2 > 1)\) (2 marks)**
+6. **Finding $\(P(10 - 4X^2 > 1)\)$ (2 marks)**
    - 1 mark: Correct manipulation of inequality.
    - 1 mark: Final probability value.
 
