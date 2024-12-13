@@ -15,9 +15,11 @@
   
 
 Determine the shape of the PDF:
+- **Linear**: If $\( f(x) \)$ is a first-degree polynomial (e.g., $\( f(x) = ax + b \)$).
+- **Quadratic**: If $\( f(x) \)$ is a second-degree polynomial (e.g., $\( f(x) = ax^2 + bx + c \)$).
+- **Exponential**: If $\( f(x) \) contains \( e^{kx} \)$, indicating exponential growth or decay.
+- **Piecewise**: If $\( f(x) \)$ has different expressions for different ranges of $\( x \)$.
 
-    Analyze the provided probability density function f(x)f(x). Identify the functional form in the region 1≤x≤21≤x≤2 (e.g., quadratic, linear).
-    Identify where f(x)f(x) equals 0 (e.g., for x<1x<1 or x>2x>2).
 
 Sketch the graph:
 
