@@ -22,7 +22,7 @@
    - 2 marks: Accurate curve shape in $\(1 \leq x \leq 2\)$.
    - 1 mark: Properly labeling axes.
 
-4. **Finding $`\(P(X > 3/2)\)`$ (2 marks)**
+4. **Finding $\(P(X > 3/2)\)$ (2 marks)**
    - 1 mark: Correct computation of the area under the curve.
    - 1 mark: Final answer.
 
