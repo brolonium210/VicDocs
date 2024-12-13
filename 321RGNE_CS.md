@@ -19,7 +19,7 @@
    - 2 marks: Clear expression for the CDF.
 
 3. **Sketch of CDF (3 marks)**
-   - 2 marks: Accurate curve shape in \(1 \leq x \leq 2\).
+   - 2 marks: Accurate curve shape in $\(1 \leq x \leq 2\)$.
    - 1 mark: Properly labeling axes.
 
 4. **Finding \(P(X > 3/2)\) (2 marks)**
@@ -51,7 +51,7 @@
    - 1 mark: Working out.
    - 1 mark: Final result.
 
-4. **Exponential Proof \(P(X > x) = e^{-\theta x}\) (6 marks)**
+4. **Exponential Proof $\(P(X > x) = e^{-\theta x}\)$ (6 marks)**
    - 2 marks: Setting up the integral.
    - 2 marks: Clear explanation of steps.
    - 2 marks: Final correct proof.
@@ -59,7 +59,7 @@
 ---
 
 #### Question 3: Confidence Intervals [16 marks]
-1. **Proof for \(E(\bar{X}) = \mu\) (5 marks)**
+1. **Proof for $\(E(\bar{X}) = \mu\)$ (5 marks)**
    - 2 marks: Correct formula and definition.
    - 3 marks: Logical step-by-step explanation.
 
